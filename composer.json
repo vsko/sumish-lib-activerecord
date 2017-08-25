@@ -9,5 +9,8 @@
             "email": "info@zoom.net.ua"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "files": [ "ActiveRecord.php" ]
+    }
 }
