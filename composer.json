@@ -1,7 +1,7 @@
 {
     "name": "sumish/lib-activerecord",
     "description": "This is a library based on the ActiveRecord pattern.",
-    "keywords": ["activerecord", "orm", "sumish", "framework", "mvc"],
+    "keywords": ["activerecord", "orm"],
     "license": "MIT",
     "authors": [
         {
